@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     height="864"
+     width="864">
+  <rect x="344"
+        y="344"
+        width="500"
+        height="500"
+        style="fill:none;stroke-width:2;stroke:rgb(169,169,169)"
+        />
+    <text id="Jissai" x="20" y="359">Jissai</text>
+    <line x1="20"
+          y1="364"
+          x2="844"
+          y2="364"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+    <text transform="translate(359,324) rotate(-90)">
+    Jissai
+    </text>
+    <line x1="364"
+          y1="20"
+          x2="364"
+          y2="844"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+    <text id="Jissai.Application" x="20" y="379">Jissai.Application</text>
+    <line x1="20"
+          y1="384"
+          x2="844"
+          y2="384"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+    <text transform="translate(379,324) rotate(-90)">
+    Jissai.Application
+    </text>
+    <line x1="384"
+          y1="20"
+          x2="384"
+          y2="844"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+    <text id="Jissai.AnalyticsSessionNotFound" x="20" y="399">Jissai.AnalyticsSessionNotFound</text>
+    <line x1="20"
+          y1="404"
+          x2="844"
+          y2="404"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+    <text transform="translate(399,324) rotate(-90)">
+    Jissai.AnalyticsSessionNotFound
+    </text>
+    <line x1="404"
+          y1="20"
+          x2="404"
+          y2="844"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+    <text id="Jissai.DataAnalysis.AnalyticsScheduler" x="20" y="419">Jissai.DataAnalysis.AnalyticsScheduler</text>
+    <line x1="20"
+          y1="424"
+          x2="844"
+          y2="424"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+    <text transform="translate(419,324) rotate(-90)">
+    Jissai.DataAnalysis.AnalyticsScheduler
+    </text>
+    <line x1="424"
+          y1="20"
+          x2="424"
+          y2="844"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+    <text id="Jissai.AnalyticsWorker" x="20" y="439">Jissai.AnalyticsWorker</text>
+    <line x1="20"
+          y1="444"
+          x2="844"
+          y2="444"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+    <text transform="translate(439,324) rotate(-90)">
+    Jissai.AnalyticsWorker
+    </text>
+    <line x1="444"
+          y1="20"
+          x2="444"
+          y2="844"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+    <text id="Jissai.XlsxBuilder" x="20" y="459">Jissai.XlsxBuilder</text>
+    <line x1="20"
+          y1="464"
+          x2="844"
+          y2="464"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+    <text transform="translate(459,324) rotate(-90)">
+    Jissai.XlsxBuilder
+    </text>
+    <line x1="464"
+          y1="20"
+          x2="464"
+          y2="844"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+    <text id="Jissai.Mailer" x="20" y="479">Jissai.Mailer</text>
+    <line x1="20"
+          y1="484"
+          x2="844"
+          y2="484"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+    <text transform="translate(479,324) rotate(-90)">
+    Jissai.Mailer
+    </text>
+    <line x1="484"
+          y1="20"
+          x2="484"
+          y2="844"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+    <text id="Jissai.ReportProvider" x="20" y="499">Jissai.ReportProvider</text>
+    <line x1="20"
+          y1="504"
+          x2="844"
+          y2="504"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+    <text transform="translate(499,324) rotate(-90)">
+    Jissai.ReportProvider
+    </text>
+    <line x1="504"
+          y1="20"
+          x2="504"
+          y2="844"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+    <text id="Jissai.AtamaData" x="20" y="519">Jissai.AtamaData</text>
+    <line x1="20"
+          y1="524"
+          x2="844"
+          y2="524"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+    <text transform="translate(519,324) rotate(-90)">
+    Jissai.AtamaData
+    </text>
+    <line x1="524"
+          y1="20"
+          x2="524"
+          y2="844"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+    <text id="Jissai.UserRoleHelper" x="20" y="539">Jissai.UserRoleHelper</text>
+    <line x1="20"
+          y1="544"
+          x2="844"
+          y2="544"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+    <text transform="translate(539,324) rotate(-90)">
+    Jissai.UserRoleHelper
+    </text>
+    <line x1="544"
+          y1="20"
+          x2="544"
+          y2="844"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+    <text id="Jissai.DataAnalysis" x="20" y="559">Jissai.DataAnalysis</text>
+    <line x1="20"
+          y1="564"
+          x2="844"
+          y2="564"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+    <text transform="translate(559,324) rotate(-90)">
+    Jissai.DataAnalysis
+    </text>
+    <line x1="564"
+          y1="20"
+          x2="564"
+          y2="844"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+    <text id="Jissai.AnalyticsBuilder" x="20" y="579">Jissai.AnalyticsBuilder</text>
+    <line x1="20"
+          y1="584"
+          x2="844"
+          y2="584"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+    <text transform="translate(579,324) rotate(-90)">
+    Jissai.AnalyticsBuilder
+    </text>
+    <line x1="584"
+          y1="20"
+          x2="584"
+          y2="844"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+    <text id="Jissai.AttendanceProcess" x="20" y="599">Jissai.AttendanceProcess</text>
+    <line x1="20"
+          y1="604"
+          x2="844"
+          y2="604"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+    <text transform="translate(599,324) rotate(-90)">
+    Jissai.AttendanceProcess
+    </text>
+    <line x1="604"
+          y1="20"
+          x2="604"
+          y2="844"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+    <text id="Jissai.ClassDynamicsProcess" x="20" y="619">Jissai.ClassDynamicsProcess</text>
+    <line x1="20"
+          y1="624"
+          x2="844"
+          y2="624"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+    <text transform="translate(619,324) rotate(-90)">
+    Jissai.ClassDynamicsProcess
+    </text>
+    <line x1="624"
+          y1="20"
+          x2="624"
+          y2="844"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+    <text id="Jissai.DataAnalysisHelper" x="20" y="639">Jissai.DataAnalysisHelper</text>
+    <line x1="20"
+          y1="644"
+          x2="844"
+          y2="644"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+    <text transform="translate(639,324) rotate(-90)">
+    Jissai.DataAnalysisHelper
+    </text>
+    <line x1="644"
+          y1="20"
+          x2="644"
+          y2="844"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+    <text id="Jissai.ParticipationProcesss" x="20" y="659">Jissai.ParticipationProcesss</text>
+    <line x1="20"
+          y1="664"
+          x2="844"
+          y2="664"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+    <text transform="translate(659,324) rotate(-90)">
+    Jissai.ParticipationProcesss
+    </text>
+    <line x1="664"
+          y1="20"
+          x2="664"
+          y2="844"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+    <text id="Jissai.Reports" x="20" y="679">Jissai.Reports</text>
+    <line x1="20"
+          y1="684"
+          x2="844"
+          y2="684"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+    <text transform="translate(679,324) rotate(-90)">
+    Jissai.Reports
+    </text>
+    <line x1="684"
+          y1="20"
+          x2="684"
+          y2="844"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+    <text id="Jissai.AtamaRepo" x="20" y="699">Jissai.AtamaRepo</text>
+    <line x1="20"
+          y1="704"
+          x2="844"
+          y2="704"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+    <text transform="translate(699,324) rotate(-90)">
+    Jissai.AtamaRepo
+    </text>
+    <line x1="704"
+          y1="20"
+          x2="704"
+          y2="844"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+    <text id="Jissai.AnalyticsInvalidInputsSize" x="20" y="719">Jissai.AnalyticsInvalidInputsSize</text>
+    <line x1="20"
+          y1="724"
+          x2="844"
+          y2="724"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+    <text transform="translate(719,324) rotate(-90)">
+    Jissai.AnalyticsInvalidInputsSize
+    </text>
+    <line x1="724"
+          y1="20"
+          x2="724"
+          y2="844"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+    <text id="Jissai.AnalyticsNoInputs" x="20" y="739">Jissai.AnalyticsNoInputs</text>
+    <line x1="20"
+          y1="744"
+          x2="844"
+          y2="744"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+    <text transform="translate(739,324) rotate(-90)">
+    Jissai.AnalyticsNoInputs
+    </text>
+    <line x1="744"
+          y1="20"
+          x2="744"
+          y2="844"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+    <text id="Jissai.DataAnalysis.Log" x="20" y="759">Jissai.DataAnalysis.Log</text>
+    <line x1="20"
+          y1="764"
+          x2="844"
+          y2="764"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+    <text transform="translate(759,324) rotate(-90)">
+    Jissai.DataAnalysis.Log
+    </text>
+    <line x1="764"
+          y1="20"
+          x2="764"
+          y2="844"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+    <text id="Jissai.Repo" x="20" y="779">Jissai.Repo</text>
+    <line x1="20"
+          y1="784"
+          x2="844"
+          y2="784"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+    <text transform="translate(779,324) rotate(-90)">
+    Jissai.Repo
+    </text>
+    <line x1="784"
+          y1="20"
+          x2="784"
+          y2="844"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+    <text id="Jissai.Reports.Attendance" x="20" y="799">Jissai.Reports.Attendance</text>
+    <line x1="20"
+          y1="804"
+          x2="844"
+          y2="804"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+    <text transform="translate(799,324) rotate(-90)">
+    Jissai.Reports.Attendance
+    </text>
+    <line x1="804"
+          y1="20"
+          x2="804"
+          y2="844"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+    <text id="Jissai.Reports.ClassDynamic" x="20" y="819">Jissai.Reports.ClassDynamic</text>
+    <line x1="20"
+          y1="824"
+          x2="844"
+          y2="824"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+    <text transform="translate(819,324) rotate(-90)">
+    Jissai.Reports.ClassDynamic
+    </text>
+    <line x1="824"
+          y1="20"
+          x2="824"
+          y2="844"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+    <text id="Jissai.Reports.Participant" x="20" y="839">Jissai.Reports.Participant</text>
+    <line x1="20"
+          y1="844"
+          x2="844"
+          y2="844"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+    <text transform="translate(839,324) rotate(-90)">
+    Jissai.Reports.Participant
+    </text>
+    <line x1="844"
+          y1="20"
+          x2="844"
+          y2="844"
+          style="stroke:rgb(169,169,169);stroke-width:1" />
+        <text x="346" y="360">
+        🔹
+        </text>
+        <text x="366" y="380">
+        🔹
+        </text>
+        <text x="386" y="400">
+        🔹
+        </text>
+        <text x="406" y="420">
+        🔹
+        </text>
+        <text x="426" y="440">
+        🔹
+        </text>
+        <text x="446" y="460">
+        🔹
+        </text>
+        <text x="466" y="480">
+        🔹
+        </text>
+        <text x="446" y="500">
+        🔸
+        </text>
+        <text x="486" y="500">
+        🔹
+        </text>
+        <text x="426" y="520">
+        🔸
+        </text>
+        <text x="446" y="520">
+        🔸
+        </text>
+        <text x="486" y="520">
+        🔸
+        </text>
+        <text x="506" y="520">
+        🔹
+        </text>
+        <text x="526" y="520">
+        🔸
+        </text>
+        <text x="546" y="520">
+        🔸
+        </text>
+        <text x="586" y="520">
+        🔸
+        </text>
+        <text x="606" y="520">
+        🔸
+        </text>
+        <text x="646" y="520">
+        🔸
+        </text>
+        <text x="506" y="540">
+        🔸
+        </text>
+        <text x="526" y="540">
+        🔹
+        </text>
+        <text x="566" y="540">
+        🔸
+        </text>
+        <text x="426" y="560">
+        🔸
+        </text>
+        <text x="526" y="560">
+        🔸
+        </text>
+        <text x="546" y="560">
+        🔹
+        </text>
+        <text x="586" y="560">
+        🔸
+        </text>
+        <text x="606" y="560">
+        🔸
+        </text>
+        <text x="626" y="560">
+        🔸
+        </text>
+        <text x="646" y="560">
+        🔸
+        </text>
+        <text x="426" y="580">
+        🔸
+        </text>
+        <text x="526" y="580">
+        🔸
+        </text>
+        <text x="566" y="580">
+        🔹
+        </text>
+        <text x="666" y="580">
+        🔸
+        </text>
+        <text x="566" y="600">
+        🔸
+        </text>
+        <text x="586" y="600">
+        🔹
+        </text>
+        <text x="566" y="620">
+        🔸
+        </text>
+        <text x="606" y="620">
+        🔹
+        </text>
+        <text x="426" y="640">
+        🔸
+        </text>
+        <text x="506" y="640">
+        🔸
+        </text>
+        <text x="606" y="640">
+        🔸
+        </text>
+        <text x="626" y="640">
+        🔹
+        </text>
+        <text x="566" y="660">
+        🔸
+        </text>
+        <text x="646" y="660">
+        🔹
+        </text>
+        <text x="486" y="680">
+        🔸
+        </text>
+        <text x="506" y="680">
+        🔸
+        </text>
+        <text x="566" y="680">
+        🔸
+        </text>
+        <text x="666" y="680">
+        🔹
+        </text>
+        <text x="506" y="700">
+        🔸
+        </text>
+        <text x="686" y="700">
+        🔹
+        </text>
+        <text x="606" y="720">
+        🔸
+        </text>
+        <text x="706" y="720">
+        🔹
+        </text>
+        <text x="586" y="740">
+        🔸
+        </text>
+        <text x="726" y="740">
+        🔹
+        </text>
+        <text x="546" y="760">
+        🔸
+        </text>
+        <text x="666" y="760">
+        🔸
+        </text>
+        <text x="746" y="760">
+        🔹
+        </text>
+        <text x="546" y="780">
+        🔸
+        </text>
+        <text x="666" y="780">
+        🔸
+        </text>
+        <text x="766" y="780">
+        🔹
+        </text>
+        <text x="666" y="800">
+        🔸
+        </text>
+        <text x="786" y="800">
+        🔹
+        </text>
+        <text x="666" y="820">
+        🔸
+        </text>
+        <text x="806" y="820">
+        🔹
+        </text>
+        <text x="666" y="840">
+        🔸
+        </text>
+        <text x="826" y="840">
+        🔹
+        </text>
+  <rect x="504"
+        y="504"
+        width="160"
+        height="160"
+        style="fill:none;stroke:rgb(255,0,0);stroke-width:2"
+        />
+  <rect x="564"
+        y="564"
+        width="120"
+        height="120"
+        style="fill:none;stroke:rgb(0,153,0);stroke-width:2"
+        />
+  >
+</svg>
